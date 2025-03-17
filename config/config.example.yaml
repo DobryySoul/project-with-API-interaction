@@ -1,0 +1,12 @@
+PORT: 8080
+HOST: localhost
+
+POSTGRES:
+  POSTGRES_HOST: localhost
+  POSTGRES_PORT: 5432
+  POSTGRES_USER: your-user
+  POSTGRES_PASS: your-user-password
+  POSTGRES_DB: your-database
+
+JWT_SECRET: your-secret
+API_KEY: your-api-key
